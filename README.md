@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Aravind Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+![github1](https://user-images.githubusercontent.com/86199183/197369170-95515d81-4d8d-44c1-93a4-4545f68c57c4.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindsharma23&label=Profile%20views&color=0e75b6&style=flat" alt="aravindsharma23" /> </p>
