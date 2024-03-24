@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **Python,HTML,CSS,Javascript,Golang,**
+- 💬 Ask me about **Python,HTML,CSS,Javascript,Golang,ReactJS,Svelte**
 
 - 📫 How to reach me **aravindkumarcse23@gmail.com**
 
